@@ -35,7 +35,11 @@ Courses++ is a smart mobile and web application designed to help users manage sh
 - Node.js    
 - Firebase project (with Firestore & Auth enabled)  
 
-//--> Arabic
+--
+⚠️ This project is protected. Reuse, reproduction, or modification without permission is strictly forbidden.
+
+--
+Arabic
 
 # 📱 Courses++
 
